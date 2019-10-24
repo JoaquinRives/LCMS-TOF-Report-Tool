@@ -4,7 +4,7 @@ App to generate analytical reports (.NET)
 
 Alternative download link from OneDrive: https://1drv.ms/u/s!AhhJ65yR_GEOhdE6rXWsa1NL0wlqag?e=T6q5nd
 
-[![Watch the video](/LCMS Report (0.0.5)/LCMS Report/Resources/screenshot_video.png?raw=true "Screenshot Video")](https://youtu.be/7m9FOIPy3Tg)
+[![Watch the video](/LCMS%20Report%20(0.0.5)/LCMS%20Report/Resources/screenshot_video.png?raw=true "Screenshot Video")](https://youtu.be/7m9FOIPy3Tg)
 
 This is the first programme that I created when starting learning programming, I made this app while working as Assistant Scientist in the Environment Agency (UK), watching the rudimentary way of reporting result for this analytical method I thought I could create something to speed up the process. The results of the analysis were being written by hand on a paper-notebook having to pass them after again to a computer on a .doc file and using "copy/paste" to add names and cash# numbers from a template. In a method like LCMS-TOF-Screening and with a Compound Database with over 500 different analytes, a single sample can report over 100 different compounds. It makes the process time consuming and prone to human mistakes.
 
